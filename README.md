@@ -50,6 +50,7 @@ Sistem Inventory untuk pengelolaan stok barang. Sistem ini memungkinkan pengguna
 
 ## Struktur Direktori
 
+```
 |── auth/               # Autentikasi dan middleware
 ├── config/             # Konfigurasi database dan keamanan
 ├── database/           # File SQL database
@@ -57,14 +58,15 @@ Sistem Inventory untuk pengelolaan stok barang. Sistem ini memungkinkan pengguna
 ├── master/             # Modul master data
 ├── transaksi/          # Modul transaksi
 └── index.php           # Halaman dashboard
+```
 
 ## Tentang Developer
 
 Halo! Saya adalah seorang developer yang suka membagikan source code, tips, dan tutorial seputar pemrograman. Saat ini saya aktif mengunggah project open source di GitHub dan akan segera berbagi konten edukasi di YouTube dan media sosial – mulai dari tutorial coding, review tools developer, sampai tips karier di dunia IT.
 
 Jika Anda merasa terbantu dengan project ini, Anda dapat memberikan dukungan melalui:
+- GitHub: <a href="https://github.com/angganurbayu">@angganurbayu</a>
 - Trakteer: <a href="https://trakteer.id/angganurbayu/tip">@angganurbayu</a>
 
 ## Copyright
-
 Copyright © 2025. <a href="https://github.com/angganurbayu">Bayu Nur Angga</a>.
